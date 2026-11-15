@@ -1,9 +1,0 @@
-# Ignorer tous les fichiers de rapports JSON
-*.json
-
-# Ignorer les dossiers de cache Python
-__pycache__/
-
-# Ignorer les dossiers de test ou de brouillon locaux (comme learning/ ou other/)
-learning/
-other/
