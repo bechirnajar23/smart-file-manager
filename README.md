@@ -35,3 +35,28 @@ smart-file-manager/
 ├── reporter.py          # Handles data cleaning and JSON report generation
 ├── main.py              # CLI orchestrator running the full workflow
 └── README.md            # Project documentation
+```
+---
+## Installation & Setup
+
+git clone [https://github.com/bechirnajar23/smart-file-manager.git](https://github.com/bechirnajar23/smart-file-manager.git)
+cd smart-file-manager
+
+---
+## How To use
+
+python main.py
+
+---
+
+## Future Perspectives & Roadmap
+
+- **Extended File Type Support**: Expand the extension mapping dictionary to support specialized formats and custom user-defined configuration rules in future releases.
+- **Graphical User Interface (GUI)**: Build an intuitive desktop interface (using CustomTkinter or PyQt) to allow drag-and-drop directory selection and visual storage management.
+- **AI-Powered File Agent**: Integrate an intelligent LLM-based agent capable of reading document contents (PDFs, text files) to perform semantic classification (smart sorting of invoices, resumes, and academic notes) and automated file renaming.
+
+---
+
+## Author
+
+Developed by **Bechir Najjar** as a practical Python project demonstrating modular software design and file system manipulation.
